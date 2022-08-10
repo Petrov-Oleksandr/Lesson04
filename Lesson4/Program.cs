@@ -176,7 +176,7 @@ namespace Lesson4
             ////Factorial(1)
             ////if (n == 1) return 1;
             ////1
-
+//commented code
             //Homework
 
             Console.WriteLine(MaxValue(10, 4));
@@ -269,7 +269,8 @@ namespace Lesson4
         }
 
 
-
+//checked
+        //big white space
 
 
 
